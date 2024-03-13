@@ -1,0 +1,11 @@
+{
+    "name": "agenda/calendar",
+    "description": "Calendario agenda de eventos com PHP",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "../../class",
+            "Models\\": "../../model"
+        }
+    }
+}

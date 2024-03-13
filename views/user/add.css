@@ -1,0 +1,15 @@
+.user-img{
+    width: 55px;
+    height: 55px;
+}
+.form{
+    /*margin: 0 200px;*/
+    padding: 0 15%;
+}
+.optionBlue{
+    background-color: blue;
+}
+i{
+    font-size: 20px;
+    margin-right: 5px;
+}
