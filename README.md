@@ -19,6 +19,6 @@ Nesta aplicação é possível cadastrar eventos em um calendário. Aqui podemos
 - Xampp
 
   ## Preview
-
+<img src="/img/agenda-calendar.png">
   
   
